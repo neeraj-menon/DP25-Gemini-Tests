@@ -1,0 +1,104 @@
+{
+    ""document_id"": ""b917433fc3cebe872bc3296af87bff8f"",
+    ""filename"": ""Resume_NM.pdf"",
+    ""is_ruleset"": false,
+    ""file_type"": ""General Text"",
+    ""upload_date"": ""2025-01-02T11: 36: 18+05: 30"",
+    ""content"": {
+        ""extracted_content"": {
+            ""additional_details"": {
+                ""TIE Young Entrepreneurs"": {
+                    ""achievements"": [
+                        ""Winners of the Best Teamwork Award and the Social Impact Award""
+                    ],
+                    ""role"": ""Team Lead"",
+                    ""years"": ""2020-2021""
+                },
+                ""certifications"": [
+                    ""Certificate in Information Security (NYUx CYB.ISP.1Information Security - Introduction to Information Security)"",
+                    ""AZ-900: Microsoft Azure Fundamentals"",
+                    ""IIT Madras Foundational Certificate""
+                ]
+            },
+            ""contact"": {
+                ""email"": ""menonneerajlo2@gmail.com"",
+                ""phone"": ""+91 7411824630""
+            },
+            ""education"": [
+                {
+                    ""degree"": ""BSc (Honors) in Cloud Computing and Big Data"",
+                    ""gpa"": 8.49,
+                    ""university"": ""REVA UNIVERSITY"",
+                    ""years"": ""2021-2024""
+                },
+                {
+                    ""degree"": ""BSc in Programming and Data Science"",
+                    ""gpa"": 7.16,
+                    ""university"": ""INDIAN INSTITUTE OF TECHNOLOGY MADRAS"",
+                    ""years"": ""2022 - Present""
+                }
+            ],
+            ""languages"": [
+                ""English"",
+                ""Hindi"",
+                ""Malayalam""
+            ],
+            ""name"": ""NEERAJ SUNIL MENON"",
+            ""projects"": [
+                {
+                    ""description"": ""Developed a website using HTML, CSS and JavaScript to display a list of original music. It features a music player to select and play any song from the list of songs using HTML and CSS along with play-pause mechanism using JavaScript."",
+                    ""name"": ""MUSIC PLAYER WEBSITE"",
+                    ""type"": ""Individual Project"",
+                    ""year"": 2022
+                },
+                {
+                    ""description"": ""Created an application using Python and NLP (Natural Language Processing) to analyze a file of customer reviews for a single product on Amazon. Developed a program to scrape through multiple pages of Amazon reviews of an enlisted product using BeautifulSoup and a Docker container running a tool - 'Splash'. Performed a Sentiment Analysis on the reviews collected using Python and NLTK (Natural Language Toolkit). Displayed the result of the analysis on a web application which was implemented using Streamlit and Python."",
+                    ""name"": ""CUSTOMER SENTIMENT ANALYSIS OF AMAZON REVIEWS"",
+                    ""type"": ""Individual Project"",
+                    ""year"": 2023
+                },
+                {
+                    ""description"": ""Developed a chatbot user interface using HTML and CSS. Created a chatbot using Python, and OpenAl Libraries. Implemented code reusability and abstraction by making use of Flask as a lightweight web framework. Defined a custom service role for Elastic Beanstalk to create the required services while deploying the application. Deployed the application on the internet using AWS Elastic Beanstalk."",
+                    ""name"": ""CHATBOT"",
+                    ""type"": ""Team Member"",
+                    ""year"": 2023
+                }
+            ],
+            ""technical_skills"": {
+                ""languages"": [
+                    ""Python"",
+                    ""Java"",
+                    ""HTML"",
+                    ""CSS"",
+                    ""Shell Scripting"",
+                    ""SQL"",
+                    ""Cipher Query""
+                ],
+                ""technologies"": [
+                    ""Neo4j"",
+                    ""LangChain"",
+                    ""OpenStack"",
+                    ""AWS: EC2, S3, Elastic Load Balancing, Elastic Block Storage, AWS Lambda, Elastic Beanstalk"",
+                    ""Flask"",
+                    ""FastAPI""
+                ]
+            },
+            ""work_experience"": [
+                {
+                    ""company"": ""Skillablers Technologies Pvt Ltd"",
+                    ""responsibilities"": [
+                        ""Designed a schema for user data which is used while converting unstructured user resume data to a Neo4j graph."",
+                        ""Defined Object Graph Mapping Libraries in Python and Neo4j Libraries that are used to create the structured nodes and Relationships."",
+                        ""Programmed an algorithm by making use of Object Graph Mapping Libraries and the Schema – increasing the efficiency of converting key-value user information into a structured graph by more than 50%."",
+                        ""Developed a python-based recommendation system along with LangChain agents and 'Ollama' to generate recommendations and provide a skill gap analysis based on user data in a cost-efficient manner."",
+                        ""Implemented cost reduction strategies by the use of open-source Large Language Models (LLMs) and enhanced the efficiency of the result, by significantly increasing processing speed by about 60%."",
+                        ""Created multiple RESTful endpoints using Fast API that handle job recommendation generation and skill gap analysis in order to integrate the recommendation system within the Skillablers web application."",
+                        ""Collaborated closely with the Project Lead, and the development team at Skillablers to develop a user interaction component - that displays the skills required, and the skill gap analysis of a particular job title with a click of a button.""
+                    ],
+                    ""role"": ""Development Intern"",
+                    ""year"": 2024
+                }
+            ]
+        }
+    }
+}

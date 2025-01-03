@@ -1,0 +1,4 @@
+gemini-chat/.env
+gemini-context-caching/.env
+gemini-doc-understanding/.env
+gemini-function-calling/.env
