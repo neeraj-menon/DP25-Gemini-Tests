@@ -206,6 +206,14 @@ The application handles various scenarios:
 4. Directory organization features
 5. Content formatting options
 
+## Credits and Acknowledgments
+
+This project is built upon the foundation code from [Debugverse's Go Gemini Chatbot](https://github.com/debugverse/debugverse-youtube/tree/main/go-genai-chatbot). The original implementation has been modified and extended to include file writing capabilities and function calling features.
+
+Special thanks to:
+- [Debugverse](https://github.com/debugverse) for the initial implementation and tutorial
+- Check out their YouTube channel: [@DebugVerseTutorials](https://www.youtube.com/@DebugVerseTutorials) for more Go programming tutorials
+
 ## How Function Calling Works
 
 The project demonstrates function calling with Gemini AI through three main components:
